@@ -1,4 +1,4 @@
-#Github Project List
+## Github Project List
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses Redux, Redux-Saga and Github API to fetch data and display projects.
 
